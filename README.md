@@ -13,7 +13,6 @@ This project is an interactive data analysis dashboard that audits the financial
 * **Power Pivot & DAX:** Utilized to build the data model and create key measures such as `Total Revenue` and `Total Profit`.
 * **Power BI:** Used to build the final interactive dashboard and visualize the insights.
 
-![Insights & Recommendations]((https://github.com/fares-a-data/Discount-Audit-Loss-Analysis/blob/main/Screenshot%202026-10-26%20141341.png))
 ## 📊 Key Insights
 * **Overall Financial Performance:** Total Revenue reached **260.52k EGP** with a profit margin of **12.37%** (32.22k EGP net profit).
 * **Loss Impact:** Total losses stand at **-35.86k EGP** (13.38% losing margin), absorbing **108.2%** of total generated profits.
