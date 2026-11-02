@@ -24,5 +24,7 @@ This project is an interactive data analysis dashboard that audits the financial
 2. **Conduct Pricing & Cost Audits:** Review product cost structures to ensure prices never fall below total product costs.
 3. **Optimize Profitable Brackets:** Focus sales and marketing efforts on safe discount tiers (0%-5% and 5%-10%).
 
-## 📷 Dashboard Preview
+## 🔗 Project Files
+* [SQL Queries Used](SQL_Queries.sql)
+* [Business Questions Addressed](Business_Questions.md)
 *(هنا هنحط الصور بتاعتك في الخطوة اللي جاية)*
